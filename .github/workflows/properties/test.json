@@ -1,0 +1,6 @@
+{
+    "name": "test",
+    "description": "Unit tests for Assignment2."
+    "iconName": "julia",
+    "categories": ["Julia"]
+}
